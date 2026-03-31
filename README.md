@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shahzeb
 - 👀 I’m interested in Backed Development.
-- ✍️ I also write blogs:->https://www.dltlabs.com/blog/author/Mohammad%20Shahzeb%20Siddiqui.
-- 🌱 I have working knowlege of nodejs and I am currently learning Golang.
-- 💞️ I’m looking to collaborate on any fun projects.
-- 📫 How to reach me at shah10zeb@gmail.com
+- 🌱 I have been working with Typescript and Nodejs Ecosystem for past 6 years. And have 3 years of experience in Python development
+- 📫 Other things about me: https://profile-tau-coral.vercel.app/en
 
