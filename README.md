@@ -39,7 +39,7 @@ I build high-traffic, distributed systems and enjoy working across the stack —
 ### 🌐 Find me
 
 - 🔗 [Portfolio](https://profile-tau-coral.vercel.app/en)
-- 💼 [LinkedIn](https://linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-shahzeb/)
 - 📬 sendtoshahzeb@gmail.com
 
 ---
